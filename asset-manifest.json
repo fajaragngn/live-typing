@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/live-typing/static/css/main.49e0bda2.css",
+    "main.js": "/live-typing/static/js/main.1f2a2674.js",
+    "static/js/787.b53665a2.chunk.js": "/live-typing/static/js/787.b53665a2.chunk.js",
+    "static/media/jokowi-kaget.gif": "/live-typing/static/media/jokowi-kaget.5c76fbcde99fd45a4ef9.gif",
+    "index.html": "/live-typing/index.html",
+    "main.49e0bda2.css.map": "/live-typing/static/css/main.49e0bda2.css.map",
+    "main.1f2a2674.js.map": "/live-typing/static/js/main.1f2a2674.js.map",
+    "787.b53665a2.chunk.js.map": "/live-typing/static/js/787.b53665a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e0bda2.css",
+    "static/js/main.1f2a2674.js"
+  ]
+}
